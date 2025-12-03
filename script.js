@@ -15,7 +15,7 @@ const products = [
         title: "Vestido Casual Mujer",
         price: 17.00,
         category: "mujer",
-        image: "images/vestido.jpg",
+        image: "img/collection/dress/vestido.jpg",
         description: "Vestido elegante perfecto para el día a día",
         sizes: ["S", "M", "L"],
         colors: ["Rojo", "Negro", "Azul", "Rosa"]
