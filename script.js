@@ -5,7 +5,7 @@ const products = [
         title: "Camiseta Básica Hombre",
         price: 8.20,
         category: "hombre",
-        image: "images/camiseta1.jpg",
+        image: "img/collection/shirts/camiseta1.jpg",
         description: "Camiseta de algodón 100% cómoda y duradera",
         sizes: ["S", "M", "L", "XL"],
         colors: ["Blanco", "Negro", "Azul", "Gris"]
